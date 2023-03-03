@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	background:#d6e4f1;
+}
+
+h1{
+	color:#fd6c02;
+}
+
+tr, td{
+	border:solid 1px #17027d;	
+}
