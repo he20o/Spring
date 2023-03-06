@@ -1,5 +1,6 @@
 package com.he20o.controller;
 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
@@ -10,7 +11,7 @@ import static org.junit.Assert.fail;
 
 @Log4j
 public class JDBCTests {
-
+	
 	static {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
